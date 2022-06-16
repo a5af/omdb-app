@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Film's getCrew() returns consistent results 1`] = `
+Array [
+  "Kenneth Branagh",
+  "Michael Green",
+  "Agatha Christie",
+  "Tom Bateman",
+  "Annette Bening",
+  "Kenneth Branagh",
+]
+`;
+
+exports[`Film's getCrew() returns consistent results 2`] = `
+Array [
+  "Anna Boden",
+  "Ryan Fleck",
+  "Anna Boden",
+  "Ryan Fleck",
+  "Geneva Robertson-Dworet",
+  "Brie Larson",
+  "Samuel L. Jackson",
+  "Ben Mendelsohn",
+]
+`;
+
+exports[`Film's getCrew() returns consistent results 3`] = `
+Array [
+  "Kenneth Branagh",
+  "Ashley Miller",
+  "Zack Stentz",
+  "Don Payne",
+  "Chris Hemsworth",
+  "Anthony Hopkins",
+  "Natalie Portman",
+]
+`;
+
+exports[`Film's getCrew() returns consistent results 4`] = `
+Array [
+  "Quentin Tarantino",
+  "Quentin Tarantino",
+  "Roger Avary",
+  "John Travolta",
+  "Uma Thurman",
+  "Samuel L. Jackson",
+]
+`;
+
+exports[`Film's getCrew() returns consistent results 5`] = `
+Array [
+  "M. Night Shyamalan",
+  "M. Night Shyamalan",
+  "James McAvoy",
+  "Bruce Willis",
+  "Samuel L. Jackson",
+]
+`;

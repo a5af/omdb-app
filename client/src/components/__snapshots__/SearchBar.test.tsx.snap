@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes the class when hovered 1`] = `
+<div
+  className="SearchBar"
+>
+  Search by Title
+  <header
+    className="SearchBarHeader"
+  >
+    <input
+      className="SearchBarInput"
+      onKeyUp={[Function]}
+      placeholder="Enter title"
+    />
+    <button
+      className="SearchBarSubmit"
+      disabled={true}
+      onClick={[Function]}
+    >
+      Search
+    </button>
+  </header>
+  <div
+    className="Results"
+  >
+    {}
+  </div>
+</div>
+`;

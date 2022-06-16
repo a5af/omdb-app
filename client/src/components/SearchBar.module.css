@@ -1,0 +1,32 @@
+.SearchBar {
+  text-align: center;
+}
+
+.SearchBarHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  padding: 2px;
+}
+
+.SearchBarSubmit {
+  margin: 5px;
+  position: relative;
+  top: 1px;
+  font-size: calc(6px + 2vmin);
+  border-radius: 5px;
+}
+
+.SearchBarInput {
+  height: calc(10px + 2vmin);
+  font-size: calc(2px + 2vmin);
+  border-radius: 5px;
+}
+
+.Results {
+  max-width: 80vh;
+  font-size: calc(5px + 1vmin);
+  line-break: anywhere;
+}

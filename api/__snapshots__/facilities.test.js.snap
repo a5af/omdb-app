@@ -1,0 +1,237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 1`] = `
+Object {
+  "common": Array [],
+  "crew1": Array [
+    "Agatha Christie",
+    "Annette Bening",
+    "Kenneth Branagh",
+    "Kenneth Branagh",
+    "Michael Green",
+    "Tom Bateman",
+  ],
+  "crew2": Array [
+    "Anna Boden",
+    "Anna Boden",
+    "Ben Mendelsohn",
+    "Brie Larson",
+    "Geneva Robertson-Dworet",
+    "Ryan Fleck",
+    "Ryan Fleck",
+    "Samuel L. Jackson",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 2`] = `
+Object {
+  "common": Array [
+    "Kenneth Branagh",
+  ],
+  "crew1": Array [
+    "Agatha Christie",
+    "Annette Bening",
+    "Kenneth Branagh",
+    "Kenneth Branagh",
+    "Michael Green",
+    "Tom Bateman",
+  ],
+  "crew2": Array [
+    "Anthony Hopkins",
+    "Ashley Miller",
+    "Chris Hemsworth",
+    "Don Payne",
+    "Kenneth Branagh",
+    "Natalie Portman",
+    "Zack Stentz",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 3`] = `
+Object {
+  "common": Array [],
+  "crew1": Array [
+    "Agatha Christie",
+    "Annette Bening",
+    "Kenneth Branagh",
+    "Kenneth Branagh",
+    "Michael Green",
+    "Tom Bateman",
+  ],
+  "crew2": Array [
+    "John Travolta",
+    "Quentin Tarantino",
+    "Quentin Tarantino",
+    "Roger Avary",
+    "Samuel L. Jackson",
+    "Uma Thurman",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 4`] = `
+Object {
+  "common": Array [],
+  "crew1": Array [
+    "Agatha Christie",
+    "Annette Bening",
+    "Kenneth Branagh",
+    "Kenneth Branagh",
+    "Michael Green",
+    "Tom Bateman",
+  ],
+  "crew2": Array [
+    "Bruce Willis",
+    "James McAvoy",
+    "M. Night Shyamalan",
+    "M. Night Shyamalan",
+    "Samuel L. Jackson",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 5`] = `
+Object {
+  "common": Array [],
+  "crew1": Array [
+    "Anna Boden",
+    "Anna Boden",
+    "Ben Mendelsohn",
+    "Brie Larson",
+    "Geneva Robertson-Dworet",
+    "Ryan Fleck",
+    "Ryan Fleck",
+    "Samuel L. Jackson",
+  ],
+  "crew2": Array [
+    "Anthony Hopkins",
+    "Ashley Miller",
+    "Chris Hemsworth",
+    "Don Payne",
+    "Kenneth Branagh",
+    "Natalie Portman",
+    "Zack Stentz",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 6`] = `
+Object {
+  "common": Array [
+    "Samuel L. Jackson",
+  ],
+  "crew1": Array [
+    "Anna Boden",
+    "Anna Boden",
+    "Ben Mendelsohn",
+    "Brie Larson",
+    "Geneva Robertson-Dworet",
+    "Ryan Fleck",
+    "Ryan Fleck",
+    "Samuel L. Jackson",
+  ],
+  "crew2": Array [
+    "John Travolta",
+    "Quentin Tarantino",
+    "Quentin Tarantino",
+    "Roger Avary",
+    "Samuel L. Jackson",
+    "Uma Thurman",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 7`] = `
+Object {
+  "common": Array [
+    "Samuel L. Jackson",
+  ],
+  "crew1": Array [
+    "Anna Boden",
+    "Anna Boden",
+    "Ben Mendelsohn",
+    "Brie Larson",
+    "Geneva Robertson-Dworet",
+    "Ryan Fleck",
+    "Ryan Fleck",
+    "Samuel L. Jackson",
+  ],
+  "crew2": Array [
+    "Bruce Willis",
+    "James McAvoy",
+    "M. Night Shyamalan",
+    "M. Night Shyamalan",
+    "Samuel L. Jackson",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 8`] = `
+Object {
+  "common": Array [],
+  "crew1": Array [
+    "Anthony Hopkins",
+    "Ashley Miller",
+    "Chris Hemsworth",
+    "Don Payne",
+    "Kenneth Branagh",
+    "Natalie Portman",
+    "Zack Stentz",
+  ],
+  "crew2": Array [
+    "John Travolta",
+    "Quentin Tarantino",
+    "Quentin Tarantino",
+    "Roger Avary",
+    "Samuel L. Jackson",
+    "Uma Thurman",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 9`] = `
+Object {
+  "common": Array [],
+  "crew1": Array [
+    "Anthony Hopkins",
+    "Ashley Miller",
+    "Chris Hemsworth",
+    "Don Payne",
+    "Kenneth Branagh",
+    "Natalie Portman",
+    "Zack Stentz",
+  ],
+  "crew2": Array [
+    "Bruce Willis",
+    "James McAvoy",
+    "M. Night Shyamalan",
+    "M. Night Shyamalan",
+    "Samuel L. Jackson",
+  ],
+}
+`;
+
+exports[`Verifies CommonCrewFacility's getCommonCrew returns consistent results. 10`] = `
+Object {
+  "common": Array [
+    "Samuel L. Jackson",
+  ],
+  "crew1": Array [
+    "John Travolta",
+    "Quentin Tarantino",
+    "Quentin Tarantino",
+    "Roger Avary",
+    "Samuel L. Jackson",
+    "Uma Thurman",
+  ],
+  "crew2": Array [
+    "Bruce Willis",
+    "James McAvoy",
+    "M. Night Shyamalan",
+    "M. Night Shyamalan",
+    "Samuel L. Jackson",
+  ],
+}
+`;
